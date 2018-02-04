@@ -1,0 +1,232 @@
+* {
+    margin:0;
+    padding:0;
+    
+}
+
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color:#2ecc71;
+}
+
+.area {
+    width:960px;
+    margin:0 auto;
+}
+
+.fix {
+     clear:both;
+}
+
+.wrapper {
+
+}
+
+.header{
+    border-top:10px solid #2ecc71;
+    background:url(images/slider.jpg) no-repeat 0 0;
+    background-size: 100%;
+    height: 610px;
+
+}
+
+.logo {
+    margin-top: 170px;
+    margin-bottom:35px;
+
+}
+
+.subtitle{
+
+}
+
+.subtitle p{
+    color:#fff;
+    font-size: 22px;
+    margin-bottom:25px;
+}
+
+.subtitle ul {
+    list-style: none;
+}
+
+.subtitle ul li {
+    float: left;
+    margin-left:20px;
+}
+.services {
+    background: #ffffff;
+    height:auto;
+}
+
+.service {
+    float:left;
+    width:320px;
+    text-align: center;
+    margin: 60px 0;
+}
+
+.service h2 {
+    font-family: arial;
+    color:#222222;
+    margin-bottom: 30px;
+}
+
+.service p {
+    font-family: arial;
+    color:#aaaaaa;
+}
+.service img{ 
+    background: #2ecc71;
+    padding: 20px;
+    border-radius: 100%;
+    margin-bottom:30px;
+
+}
+
+#update {
+    background: #e3e3e3;
+    height: auto;
+}
+
+.notify-mail {
+    width:50%;
+    float:left;
+    margin-top: 60px;
+    margin-bottom: 150px;
+}
+
+.notify-mail h2 {
+    font-family: arial;
+    margin-bottom: 30px;
+    font-size:24px;
+}
+.notify-mail p {
+    font-family: arial;
+    color:#aaaaaa;
+    margin-bottom: 30px;
+}
+.notify-mail form {
+    
+}
+
+.notify-mail form input {
+    border: 1px solid #c0c0c0;
+    border-radius: 10px 0px 0px 10px;
+    padding: 20px;
+    font-size: 18px;
+}
+
+.notify-mail form button {
+    background: #2ecc71;
+    padding: 20px;
+    margin-left:-5px;
+    border: 1px solid #2ecc71;
+    border-radius: 0 10px 10px 0;
+    font-size: 18px;
+    color: #ffffff;
+    font-weight: 600px;
+    
+}
+.video{
+    width:50%;
+    float:left;
+    margin-top: 60px;
+}
+
+#testimonial {
+
+}
+
+#testimonial p {
+    color: #848484;
+    font-family: arial;
+    font-style: italic;
+    font-size: 18px;
+    margin-top: 60px;
+    text-align: center;
+
+}
+#testimonial h3 {
+    text-align: center;
+    margin: 30px 0;
+    font-family: arial;
+    font-size: 20px;
+}
+
+.social h2 {
+    text-align: center !important;
+    margin: 30px 0 !important;
+    font-family: arial !important;
+    font-size: 24px !important;
+}
+
+.social p {
+    color:#848484 !important;
+    font-family: arial !important;
+    font-style: normal !important;
+    font-size:18px !important;
+    margin:30px 0 !important;
+    text-align: center !important;
+    
+
+}
+.clients {
+    list-style:none;
+    margin-bottom: 60px;
+}
+.clients li a img:hover {
+    background:#2ecc71;
+    opacity: .7;
+}
+
+.clients li {
+    float:left;
+    margin-right: 5px;
+}
+
+.social-icon {
+    list-style: none;
+    text-align: center;
+    width: 40%;
+    margin: 0 auto;
+}
+.social-icon li {
+    float: left;
+}
+
+.social-icon li a img {
+    background: #d4d4d4;
+    padding: 20px;
+    margin-right: 5px;
+    border-radius: 45px;
+	text-align: center;
+}
+
+#footer{
+	background: #e3e3e3;
+}
+
+.footer_menu {
+    list-style: none;
+    height: 160px;
+    width:65%;
+    margin: 0 auto;
+}
+
+.footer_menu li {
+    float: left;
+    margin: 60px 0;
+}
+
+.footer_menu li a {
+    font-family: arial;
+    color:#848484;
+    font-size: 16px;
+    padding-right: 40px;
+    text-decoration: none;
+}
